@@ -3,6 +3,7 @@ Version: NAFATH-V4
 Track: Networking
 
 ## Overview
+
 A national service provider faces complex security risks across its entire digital supply chain. Securing this environment requires an integrated approach across software, artificial intelligence, mobile applications, networking, cybersecurity, and data management. In software, configurations must be separated from source code to prevent sensitive secrets from leaking. AI systems require defenses against adversarial attacks such as evasion and data poisoning to maintain model integrity. Mobile applications must follow security standards like OWASP MASVS to ensure client-side safety. System-level vulnerabilities like Log4Shell demonstrate the constant need for rapid patch management in cybersecurity. Data integrity relies on maintaining a Software Bill of Materials (SBOM) to track components. Finally, at the network layer, routing protocols must be secured with RPKI to prevent BGP route hijacking.
 
 ## Software
